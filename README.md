@@ -23,22 +23,12 @@ Estudante de Ciência da Computação na Universidade Anhembi Morumbi e Desenvol
 
 Aqui estão alguns projetos em que estou trabalhando ou contribuí:
 
-- **[Projeto 1](#)** - Em Breve
-- **[Projeto 2](#)** - Em Breve
-- **[Projeto 3](#)** - Em Breve
+Em Breve
 
 ## 🚀 Vamos Conectar!
 
 - **LinkedIn:** [Guilherme Alvarez Ramos](https://www.linkedin.com/in/guilherme-alvarez-ramos/)
 - **Email:** [guilherme.zalv@gmail.com](mailto:guilherme.zalv@gmail.com)
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermealvdev&show_icons=true&theme=radical)
-
-## 🌐 Minhas Contribuições
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
 
 ---
 
