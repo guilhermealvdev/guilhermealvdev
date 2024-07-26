@@ -10,25 +10,26 @@ Sou um estudante de Desenvolvimento Full-Stack com foco em Front-End utilizando 
 - **Frameworks e Bibliotecas:** React
 - **Ferramentas de Versionamento:** Git, GitHub
 
-## 🔧 Outros Conhecimentos [Em Progresso]
+## 🔧 Atualmente Estudando
 
-- MySQL, Docker e Python
+- React, MySQL, Docker e Python
 
 ## 🎓 Educação
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, com ênfase em React e aprendendo Back-End.
 Estudante de Ciência da Computação na Universidade Anhembi Morumbi e Desenvolvimento Full Stack na Trybe.
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, com foco em React e aprendendo Back-End.
 
 ## 📚 Projetos
 
 Aqui estão alguns projetos em que estou trabalhando ou contribuí:
-
-Em Breve
+Em Breve!
 
 ## 🚀 Vamos Conectar!
 
 - **LinkedIn:** [Guilherme Alvarez Ramos](https://www.linkedin.com/in/guilherme-alvarez-ramos/)
 - **Email:** [guilherme.zalv@gmail.com](mailto:guilherme.zalv@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealvdev&layout=compact)
 
 ---
 
